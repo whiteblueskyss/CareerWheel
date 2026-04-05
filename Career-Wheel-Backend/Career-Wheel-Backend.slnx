@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CareerWheel.Application/CareerWheel.Application.csproj" Id="9ad38016-90b4-41b1-9d9e-325e950a54e2" />
+  <Project Path="CareerWheel.Domain/CareerWheel.Domain.csproj" Id="554c1546-e179-4c9a-a826-218249d96b38" />
+  <Project Path="CareerWheel.Infrastructure/CareerWheel.Infrastructure.csproj" Id="60268665-7942-4c89-81e9-134ed2e687e0" />
+  <Project Path="CareerWheel.WebAPI/CareerWheel.WebAPI.csproj" Id="133b283c-29ad-4fcc-a762-ca0a816cb260" />
+</Solution>
