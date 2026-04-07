@@ -12,6 +12,9 @@
 
   <ItemGroup>
     <Folder Include="DTOs\" />
+    <Folder Include="Features\Jobs\" />
+    <Folder Include="Features\Users\" />
+    <Folder Include="Interfaces\" />
   </ItemGroup>
 
 </Project>
