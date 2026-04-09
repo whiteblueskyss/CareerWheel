@@ -1,6 +1,6 @@
-@CareerWheel.WebAPI_HostAddress = http://localhost:5089
+@CareerWheel.WebAPI_HostAddress = https://localhost:7100
 
-GET {{CareerWheel.WebAPI_HostAddress}}/weatherforecast/
+GET {{CareerWheel.WebAPI_HostAddress}}/api/test-db
 Accept: application/json
 
 ###
